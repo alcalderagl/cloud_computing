@@ -1,3 +1,5 @@
 .DS_Store
 /venv
 .env
+gcp_credentials.json
+speech2text_credentials.json
